@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">School Admin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new">Click here for register</string>
+    <string name="not_register">Already Register?</string>
+    <string name="name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+
+    <string name="nic_error">Please enter StudentID</string>
+    <string name="joining_date_error">Please enter Admission Date</string>
+    <string name="full_name_error">Please enter Full Name</string>
+    <string name="designation_error">Please enter Grade</string>
+    <string name="mobile_number_error">Please enter Mobile Number</string>
+
+
+
+
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter your phone number</string>
+    <string name="address_error">Please enter your address</string>
+    <string name="company_error">Please enter your school name</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="company_name">School Name</string>
+    <string name="company_req_no_optional">School Req No. (Optional)</string>
+    <string name="address_optional">Address (Optional)</string>
+
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="add_employees">Add Students</string>
+    <string name="employees_list">Students List</string>
+    <string name="manage_admin">School Admin</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="logout">Logout</string>
+    <string name="nic_employee_id"> Student ID</string>
+    <string name="joining_date">Admission Date</string>
+    <string name="full_name">Full Name</string>
+    <string name="designation">Grade</string>
+    <string name="mobile_number">Mobile Number</string>
+
+    <string name="address">Address</string>
+
+
+    <string name="add">Add</string>
+    <string name="clear">Clear</string>
+    <string name="edit">Edit</string>
+
+
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <string name="about_us_content">Fast and easy way to Manage Information about Studentdetails like Attendance,Student id, Leave, Address &amp; many more. No need to use Attendance register for Student Attendance as this Attendance app can do all the hard work for you. Very easy to Add or Delete student info &amp; mark attendance on daily basis. Get detailed report of Attendance &amp;. This is a complete Student App.
+
+\n\nAttendance Tracker / Manager App Features:\n
+
+- Add &amp; Delete Student.\n
+- Mark Attendance on a single click.\n
+- Easy to access absence report.\n
+- Easy to update and delete Information of the student.\n
+
+    </string>
+
+</resources>

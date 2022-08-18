@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center|top"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="379dp"
+        android:layout_height="185dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/round_background"
+        android:backgroundTint="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@drawable/aboutus" />
+
+    <TextView
+        android:id="@+id/text_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:padding="10dp"
+        android:layout_marginTop="8dp"
+        android:text="Fast and easy way to Manage Information about Studentdetails like Attendance,Student id, Leave, Address &amp; many more. No need to use Attendance register for Student Attendance as this Attendance app can do all the hard work for you. Very easy to Add or Delete student info &amp; mark attendance on daily basis. Get detailed report of Attendance &amp;. This is a complete Student App.Providing a place to learn where children may strive for excellence and stability in a supportive school environment.
+
+We believe that a safe, secure and supportive environment is the key to academic, social and physical growth and to the attainment of each student’s full potential!
+"
+        android:layout_marginEnd="8dp"
+        android:gravity="center|left"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</LinearLayout>

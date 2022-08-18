@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center|top"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="384dp"
+        android:layout_height="170dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/round_background"
+        android:backgroundTint="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@drawable/contactus1" />
+
+    <TextView
+        android:id="@+id/text_share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="left"
+        android:paddingLeft="10sp"
+
+        android:text="This is School Management Application developed by  PADY.\n\nif you are looking to move forward with an great exposure of your child.
+\n\Conestoga \nCountry Canada\n+1 (222)222-2222\nemail - admin@pady.com
+\nSchool Hours: 8:05am - 1:45pm\n
+Office Hours: 7:30am - 3:30pm\n
+Break Times: 10:35 am - 11:15 am
+\nAll Rights Reserved."
+        android:textSize="20sp" />
+
+</LinearLayout>
